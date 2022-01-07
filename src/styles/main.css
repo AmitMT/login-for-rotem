@@ -12,6 +12,10 @@ a:hover {
 
 @tailwind utilities;
 
+* {
+	-webkit-tap-highlight-color: transparent;
+}
+
 .content p {
 	padding: 3px;
 	@apply my-6;
