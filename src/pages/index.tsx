@@ -73,7 +73,7 @@ const Index: NextPage = () => {
 							openNickname ? 'mt-8 hover:text-white' : 'mt-6'
 						}`}
 					>
-						<div className="">Register</div>
+						Register
 					</button>
 				</form>
 			</main>
